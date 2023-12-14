@@ -1,1 +1,7 @@
 # snhu-cs250
+
+Interpreting user needs and implementing them into a program is a critical skill. To effectively achieve this, understanding the users' perspective is key. User stories play a vital role in this process. They are brief, simple descriptions of a feature told from the user's perspective. These stories help in breaking down complex requirements into manageable, user-centric tasks, ensuring that the development process remains focused on delivering value to the user.
+
+My approach to developing programs is grounded in flexibility and responsiveness to change, which is why I am drawn to agile methodologies. Agile processes, such as Scrum or Kanban, emphasize iterative development, where requirements and solutions evolve through collaboration between cross-functional teams. I aim to incorporate these methodologies into my future development work, as they encourage adaptability, continuous improvement, and deliver high-quality software that meets user needs effectively.
+
+Being a good team member in software development goes beyond just technical skills. It involves strong communication, collaboration, and problem-solving skills. A good team member actively listens, shares knowledge, and is open to feedback. They contribute to a positive team dynamic, respect diverse perspectives, and help create an inclusive environment where all team members can thrive and contribute their best work. In software development, where projects often require collaborative effort, these qualities are essential for the success of both the individual and the team.
